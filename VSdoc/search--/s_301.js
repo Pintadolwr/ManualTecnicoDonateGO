@@ -1,1 +1,0 @@
-search_result['301']=["topic_000000000000009D.html","MapController.CreateDonationPoint  Method","Visualização da página de criação de um ponto de recolha"];

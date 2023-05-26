@@ -1,1 +1,0 @@
-search_result['363']=["topic_00000000000000C0.html","VolunteerTableController.UserInstitutions Method","Método para retornar as instituições onde o utilizador atual está registado como voluntário"];

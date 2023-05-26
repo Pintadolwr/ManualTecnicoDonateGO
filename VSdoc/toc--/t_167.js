@@ -1,1 +1,0 @@
-c['167']=[['168',"GetDonationPoints Method","topic_000000000000007E.html",0],['169',"GetEvents Method","topic_000000000000007F.html",0],['170',"GetInstitutions Method","topic_0000000000000081.html",0],['171',"GetPickupPoints Method","topic_0000000000000080.html",0],['172',"Index Method","topic_000000000000007D.html",0]];

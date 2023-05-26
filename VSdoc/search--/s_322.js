@@ -1,1 +1,0 @@
-search_result['322']=["topic_00000000000000AB.html","UserController.ListInstitutions Method","Visualização de todos os utilizadores com a role \"Institution\" na base de dados"];

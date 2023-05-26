@@ -1,1 +1,0 @@
-search_result['296']=["topic_000000000000009A.html","MapController.CreatePickupPoint  Method","Visualização da página de criação de um ponto de recolha"];

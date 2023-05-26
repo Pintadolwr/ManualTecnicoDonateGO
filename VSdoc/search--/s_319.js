@@ -1,1 +1,0 @@
-search_result['319']=["topic_00000000000000A8.html","UserController Constructor","Construtor do controlador do Utilizador"];

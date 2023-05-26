@@ -1,1 +1,0 @@
-search_result['478']=["topic_0000000000000106.html","PickupPoint.Latitude Property",""];

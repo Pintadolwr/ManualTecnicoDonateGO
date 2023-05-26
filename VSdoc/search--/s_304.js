@@ -1,1 +1,0 @@
-search_result['304']=["topic_000000000000009E_overloads--.html","MapController.CreateDonationPoint Method","Ação de confirmação de um ponto de recolha"];

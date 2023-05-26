@@ -1,1 +1,0 @@
-search_result['238']=["topic_0000000000000079.html","EventController.DeleteConfirmed Method","Ação de confirmação de eliminação de um evento"];

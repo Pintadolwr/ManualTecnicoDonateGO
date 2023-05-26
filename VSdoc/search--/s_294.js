@@ -1,1 +1,0 @@
-search_result['294']=["topic_0000000000000098.html","MapController.Index Method","Visualização da view principal do mapa"];

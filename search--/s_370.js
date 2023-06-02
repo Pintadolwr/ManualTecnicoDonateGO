@@ -1,0 +1,1 @@
+search_result['370']=["topic_00000000000000C2.html","MapController.CreateDonationPoint (DonationPoint) Method","Ação de confirmação de um ponto de recolha"];

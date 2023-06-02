@@ -1,0 +1,1 @@
+search_result['709']=["topic_000000000000018F.html","PickupPoint.Latitude Property",""];

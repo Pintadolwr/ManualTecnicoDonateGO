@@ -1,0 +1,1 @@
+search_result['657']=["topic_0000000000000171.html","Notification Class","Classe base de uma Notificação\r\nApresenta os atributos base e a função de redirect.\r\nA função Redirect retorna uma string com o redirect específico da notificação.\r\nSe for um Evento retorna a string p..."];

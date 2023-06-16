@@ -1,1 +1,1 @@
-search_result['385']=["topic_00000000000000CC.html","MapController.InstitutionPickupPoints Method","View para a listagem de os pontos de recolha de uma Instituição"];
+search_result['385']=["topic_00000000000000CB_overloads--.html","MapController.CreatePickupPoint Method","Visualização da página de criação de um ponto de recolha"];

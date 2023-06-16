@@ -1,1 +1,1 @@
-c['540']=[['541',"IndexModel Constructor","topic_00000000000001D0.html",0],['542',"Methods","topic_00000000000001CF_methods--.html",1]];
+c['540']=[['541',"Properties","topic_00000000000001AD_props--.html",1],['549',"Methods","topic_00000000000001AD_methods--.html",1]];

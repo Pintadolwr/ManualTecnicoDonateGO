@@ -1,1 +1,1 @@
-search_result['572']=["topic_0000000000000138.html","DonationPoint.Latitude Property",""];
+search_result['572']=["topic_000000000000013D.html","NotificationHub.Current Property",""];

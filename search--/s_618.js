@@ -1,1 +1,1 @@
-search_result['618']=["topic_0000000000000157.html","Institution Class",""];
+search_result['618']=["topic_0000000000000157.html","DonationPoint.Id Property",""];

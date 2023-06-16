@@ -1,1 +1,1 @@
-search_result['366']=["topic_00000000000000BF_overloads--.html","MapController.CreatePickupPoint Method","Ação de confirmação de um ponto de recolha"];
+search_result['366']=["topic_00000000000000C0.html","InstitutionController Constructor","Construtor do controlador da Instituição"];

@@ -1,1 +1,1 @@
-search_result['620']=["topic_0000000000000157_events--.html","Institution Events",""];
+search_result['620']=["topic_0000000000000159.html","DonationPoint.Latitude Property",""];

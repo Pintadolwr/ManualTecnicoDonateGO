@@ -1,1 +1,1 @@
-search_result['539']=["topic_0000000000000126.html","NotificationHubExtension.ReceiveNotification Method",""];
+search_result['539']=["topic_0000000000000126.html","ApplicationDbContext.MessageModel Property",""];

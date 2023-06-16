@@ -1,1 +1,1 @@
-search_result['712']=["topic_0000000000000192.html","PickupPoint.Description Property",""];
+search_result['712']=["topic_0000000000000193.html","Institution.SWIFT Property",""];

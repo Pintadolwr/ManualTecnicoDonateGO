@@ -1,1 +1,1 @@
-search_result['274']=["topic_000000000000008C_props--.html","EstatisticsController Properties",""];
+search_result['274']=["topic_000000000000008C_props--.html","EasyPayController Properties",""];

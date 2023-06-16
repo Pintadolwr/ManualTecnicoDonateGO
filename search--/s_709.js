@@ -1,1 +1,1 @@
-search_result['709']=["topic_000000000000018F.html","PickupPoint.Latitude Property",""];
+search_result['709']=["topic_0000000000000190.html","Institution.Longitude Property",""];

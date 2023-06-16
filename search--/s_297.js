@@ -1,1 +1,1 @@
-search_result['297']=["topic_0000000000000099.html","EventController.Delete Method","Visualização da eliminação de um evento"];
+search_result['297']=["topic_0000000000000097.html","EventController Constructor","Construtor do controlador do Event"];

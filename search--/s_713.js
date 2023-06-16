@@ -1,1 +1,1 @@
-search_result['713']=["topic_0000000000000193.html","PickupPoint.OpeningTime Property",""];
+search_result['713']=["topic_0000000000000194.html","Institution.Entity Property",""];

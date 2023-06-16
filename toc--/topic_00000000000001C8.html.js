@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"DonateGO Reference","topic_0000000000000205.html"],['544',"DonateGO.Services Namespace","topic_00000000000001BC.html"],['559',"ImageHelper Class","topic_00000000000001C7.html"],['560',"Methods","topic_00000000000001C7_methods--.html"],['561',"ImageToByteArray Method","topic_00000000000001C8.html"]];
+var breadcrumbs=[['-1',"",""],['2',"DonateGO Reference","topic_0000000000000327.html"],['422',"DonateGO.Models Namespace","topic_000000000000014F.html"],['641',"PreferenceType Enumeration","topic_00000000000001C8.html"]];

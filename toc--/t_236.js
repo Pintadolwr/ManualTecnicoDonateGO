@@ -1,1 +1,0 @@
-c['236']=[['237',"InstitutionController Constructor","topic_00000000000000B4.html",0],['238',"Methods","topic_00000000000000B3_methods--.html",1]];

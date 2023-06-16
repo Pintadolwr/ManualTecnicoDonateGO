@@ -1,1 +1,1 @@
-search_result['381']=["topic_00000000000000C8.html","MapController.ConfirmDeleteDonationPoint Method",""];
+search_result['381']=["topic_00000000000000C8.html","MapController Constructor","Construtor do controlador do Mapa"];

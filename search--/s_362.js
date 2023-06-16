@@ -1,1 +1,1 @@
-search_result['362']=["topic_00000000000000BD.html","MapController.PickupPoints Method","Visualização de todos os pontos de recolha na base de dados"];
+search_result['362']=["topic_00000000000000BF_events--.html","InstitutionController Events",""];

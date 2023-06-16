@@ -1,1 +1,1 @@
-search_result['454']=["topic_00000000000000EF.html","VolunteerTableController.Delete Method","Método para eliminar a relação de um voluntário com a instituição"];
+search_result['454']=["topic_00000000000000F6.html","UserController.Delete Method","Visualização da página para eliminar um utilizador ou instituição"];

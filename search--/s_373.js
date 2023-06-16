@@ -1,1 +1,1 @@
-search_result['373']=["topic_00000000000000C3_overloads--.html","MapController.EditDonationPoint Method",""];
+search_result['373']=["topic_00000000000000C5.html","InstitutionController.ConfirmDelete Method","Ação de confirmação para eliminar uma Instituição"];

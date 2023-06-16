@@ -1,1 +1,1 @@
-search_result['291']=["topic_0000000000000095.html","EventController.InstitutionEvents Method","Visualização de todos os eventos pertencentes a uma instituição"];
+search_result['291']=["topic_0000000000000096.html","EventController Class",""];

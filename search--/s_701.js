@@ -1,1 +1,1 @@
-search_result['701']=["topic_000000000000018C.html","PickupPoint Class",""];
+search_result['701']=["topic_000000000000018C_attached_props--.html","Institution Attached Properties",""];

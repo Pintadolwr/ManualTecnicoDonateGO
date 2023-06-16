@@ -1,1 +1,1 @@
-c['584']=[['585',"ConfirmPassword Property","topic_00000000000001E4.html",0],['586',"Email Property","topic_00000000000001E1.html",0],['587',"Name Property","topic_00000000000001E0.html",0],['588',"Password Property","topic_00000000000001E3.html",0],['589',"Website Property","topic_00000000000001E2.html",0]];
+c['584']=[['585',"PickupPointStatisticsTable() Constructor","topic_00000000000001E7.html",0],['586',"PickupPointStatisticsTable(PickupPoint) Constructor","topic_00000000000001E8.html",0]];

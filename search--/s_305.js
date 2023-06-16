@@ -1,1 +1,1 @@
-search_result['305']=["topic_000000000000009E_methods--.html","FilterController Methods",""];
+search_result['305']=["topic_000000000000009D.html","EventController.Details Method","Visualização dos detalhes de um evento"];

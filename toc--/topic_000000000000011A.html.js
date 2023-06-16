@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"DonateGO Reference","topic_0000000000000205.html"],['354',"DonateGO.Hubs Namespace","topic_0000000000000116.html"],['372',"INotificationClient Interface","topic_0000000000000117.html"],['373',"Methods","topic_0000000000000117_methods--.html"],['375',"ReceiveMessageNotification Method","topic_000000000000011A.html"]];
+var breadcrumbs=[['-1',"",""],['2',"DonateGO Reference","topic_0000000000000327.html"],['361',"DonateGO.Data Namespace","topic_0000000000000119.html"],['362',"ApplicationDbContext Class","topic_000000000000011A.html"]];

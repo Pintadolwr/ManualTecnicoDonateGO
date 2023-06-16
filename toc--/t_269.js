@@ -1,1 +1,0 @@
-c['269']=[['270',"EditDonationPoint(Guid) Method","topic_00000000000000C3.html",0],['271',"EditDonationPoint(Guid, DonationPoint) Method","topic_00000000000000C4.html",0]];

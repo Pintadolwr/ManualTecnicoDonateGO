@@ -1,1 +1,1 @@
-search_result['330']=["topic_00000000000000AD_attached_props--.html","HomeController Attached Properties",""];
+search_result['330']=["topic_00000000000000AD.html","FilterController.GetDonationPoints Method","Visualização dos pontos de doação"];

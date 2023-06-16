@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"DonateGO Reference","topic_0000000000000205.html"],['383',"DonateGO.Models Namespace","topic_000000000000012E.html"],['391',"DonationPoint Class","topic_0000000000000135.html"]];
+var breadcrumbs=[['-1',"",""],['2',"DonateGO Reference","topic_0000000000000327.html"],['361',"DonateGO.Data Namespace","topic_0000000000000119.html"],['362',"ApplicationDbContext Class","topic_000000000000011A.html"],['391',"Methods","topic_000000000000011A_methods--.html"],['392',"OnModelCreating Method","topic_0000000000000135.html"]];

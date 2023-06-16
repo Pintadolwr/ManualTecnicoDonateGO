@@ -1,1 +1,1 @@
-search_result['644']=["topic_0000000000000167.html","MessageTable.ReceiverId Property",""];
+search_result['644']=["topic_0000000000000167.html","Event.InstitutionId Property",""];

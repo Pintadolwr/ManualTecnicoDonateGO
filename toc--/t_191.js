@@ -1,1 +1,1 @@
-c['191']=[['192',"Index Method","topic_000000000000008E.html",0]];
+c['191']=[['192',"Create Method","topic_0000000000000090_overloads--.html",1],['195',"Details Method","topic_000000000000008F.html",0],['196',"Index Method","topic_000000000000008E.html",0],['197',"MBWay Method","topic_0000000000000092_overloads--.html",1],['200',"Multibanco Method","topic_0000000000000094_overloads--.html",1]];

@@ -1,1 +1,1 @@
-search_result['497']=["topic_000000000000010B.html","ApplicationDbContext.Chat Property",""];
+search_result['497']=["topic_000000000000010B.html","VolunteerTableController.UserInstitutions Method","Método para retornar as instituições onde o utilizador atual está registado como voluntário"];

@@ -1,1 +1,1 @@
-search_result['628']=["topic_000000000000015C.html","Institution.Website Property",""];
+search_result['628']=["topic_0000000000000161.html","DonationPoint.Photo Property",""];

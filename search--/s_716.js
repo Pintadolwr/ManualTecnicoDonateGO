@@ -1,1 +1,1 @@
-search_result['716']=["topic_0000000000000196.html","PickupPoint.Institution Property",""];
+search_result['716']=["topic_0000000000000196_attached_props--.html","InstitutionViewTable Attached Properties",""];

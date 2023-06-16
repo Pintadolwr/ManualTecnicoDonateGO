@@ -1,1 +1,1 @@
-search_result['512']=["topic_0000000000000117_methods--.html","INotificationClient Methods",""];
+search_result['512']=["topic_0000000000000115.html","UserInstitutionsModel Class",""];

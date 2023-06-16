@@ -1,1 +1,1 @@
-c['280']=[['281',"NotificationController Constructor","topic_00000000000000D0.html",0],['282',"Methods","topic_00000000000000CF_methods--.html",1]];
+c['280']=[['281',"CreatePickupPoint() Method","topic_00000000000000CB.html",0],['282',"CreatePickupPoint(PickupPoint) Method","topic_00000000000000CC.html",0]];

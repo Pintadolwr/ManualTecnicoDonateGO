@@ -1,1 +1,1 @@
-search_result['607']=["topic_0000000000000151.html","Event.Category Property",""];
+search_result['607']=["topic_0000000000000151.html","Chat.Id Property",""];

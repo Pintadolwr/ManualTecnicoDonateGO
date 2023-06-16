@@ -1,1 +1,1 @@
-search_result['609']=["topic_0000000000000153.html","Event.Photo Property",""];
+search_result['609']=["topic_0000000000000153.html","Chat.User2Id Property",""];

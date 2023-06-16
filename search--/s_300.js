@@ -1,1 +1,1 @@
-search_result['300']=["topic_000000000000009C.html","EventController.RemoveEventFromUserSavedEvents Method","Método para remover o evento do calendário de eventos guardados do utilizador"];
+search_result['300']=["topic_0000000000000099.html","EventController.Create (Event) Method","Ação de confirmação de criação de um evento por parte de uma instituição"];

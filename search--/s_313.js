@@ -1,1 +1,1 @@
-search_result['313']=["topic_00000000000000A4.html","FilterController.GetInstitutions Method","Visualização das instituições"];
+search_result['313']=["topic_00000000000000A3.html","EventController.RemoveEventFromUserSavedEvents Method","Método para remover o evento do calendário de eventos guardados do utilizador"];

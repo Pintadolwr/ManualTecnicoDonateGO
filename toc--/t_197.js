@@ -1,0 +1,1 @@
+c['197']=[['198',"MBWay(double, CustomerModel) Method","topic_0000000000000093.html",0],['199',"MBWay() Method","topic_0000000000000092.html",0]];

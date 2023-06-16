@@ -1,1 +1,1 @@
-search_result['273']=["topic_000000000000008C_methods--.html","EstatisticsController Methods",""];
+search_result['273']=["topic_000000000000008C_methods--.html","EasyPayController Methods",""];

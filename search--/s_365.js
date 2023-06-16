@@ -1,1 +1,1 @@
-search_result['365']=["topic_00000000000000BF.html","MapController.CreatePickupPoint (PickupPoint) Method","Ação de confirmação de um ponto de recolha"];
+search_result['365']=["topic_00000000000000BF_vars--.html","InstitutionController Fields",""];

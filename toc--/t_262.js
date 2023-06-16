@@ -1,1 +1,1 @@
-c['262']=[['263',"CreatePickupPoint() Method","topic_00000000000000BE.html",0],['264',"CreatePickupPoint(PickupPoint) Method","topic_00000000000000BF.html",0]];
+c['262']=[['263',"Properties","topic_000000000000010D_props--.html",1]];

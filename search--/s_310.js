@@ -1,1 +1,1 @@
-search_result['310']=["topic_00000000000000A1.html","FilterController.GetDonationPoints Method","Visualização dos pontos de doação"];
+search_result['310']=["topic_00000000000000A0.html","EventController.Delete Method","Visualização da eliminação de um evento"];

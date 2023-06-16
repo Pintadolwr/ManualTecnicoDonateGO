@@ -1,1 +1,1 @@
-search_result['715']=["topic_0000000000000195.html","PickupPoint.InstitutionId Property",""];
+search_result['715']=["topic_0000000000000196.html","InstitutionViewTable Class",""];

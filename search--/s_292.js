@@ -1,1 +1,1 @@
-search_result['292']=["topic_0000000000000096.html","EventController.Details Method","Visualização dos detalhes de um evento"];
+search_result['292']=["topic_0000000000000096_attached_props--.html","EventController Attached Properties",""];

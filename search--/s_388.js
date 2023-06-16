@@ -1,1 +1,1 @@
-search_result['388']=["topic_00000000000000CF.html","NotificationController Class",""];
+search_result['388']=["topic_00000000000000CD.html","MapController.DonationPoints Method","Visualização de todos os pontos de doação na base de dados"];

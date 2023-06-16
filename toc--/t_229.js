@@ -1,1 +1,1 @@
-c['229']=[['230',"HomeController Constructor","topic_00000000000000AE.html",0],['231',"Methods","topic_00000000000000AD_methods--.html",1]];
+c['229']=[['230',"GetDonationPoints Method","topic_00000000000000AD.html",0],['231',"GetEvents Method","topic_00000000000000AE.html",0],['232',"GetInstitutions Method","topic_00000000000000B0.html",0],['233',"GetPickupPoints Method","topic_00000000000000AF.html",0],['234',"Index Method","topic_00000000000000AC.html",0]];

@@ -1,1 +1,1 @@
-search_result['966']=["topic_000000000000022E_props--.html","SDDMandate Properties",""];
+search_result['966']=["topic_0000000000000226.html","PickupPoint.Latitude Property",""];

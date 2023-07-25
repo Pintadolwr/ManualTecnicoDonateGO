@@ -1,1 +1,1 @@
-c['903']=[['904',"PickupPointStatistics Class","topic_00000000000002FF.html",1]];
+c['903']=[['904',"Entity Property","topic_00000000000002FB.html",0],['905',"IBAN Property","topic_00000000000002F9.html",0],['906',"Reference Property","topic_00000000000002FC.html",0],['907',"SWIFT Property","topic_00000000000002FA.html",0]];

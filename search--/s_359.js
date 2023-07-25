@@ -1,1 +1,1 @@
-search_result['359']=["topic_00000000000000BE.html","HomeController.SignalRTest Method",""];
+search_result['359']=["topic_00000000000000BD.html","MapController Constructor","Construtor do controlador do Mapa"];

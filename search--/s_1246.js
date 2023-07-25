@@ -1,1 +1,1 @@
-search_result['1246']=["topic_00000000000002E0.html","InstitutionPickupPointsStatistics.MaxDonationsPointThisMonth Property",""];
+search_result['1246']=["topic_00000000000002C3_attached_props--.html","EditInstitutionModel Attached Properties",""];

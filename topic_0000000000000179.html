@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>EventStatisticsTable.EventId Property</title>
+	<title>NotificationHub.SendMessageNotification Method</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">EventStatisticsTable.EventId Property</h1>
+		<h1 class="title">NotificationHub.SendMessageNotification Method</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_000000000000014F.html">DonateGO.Models</a>
+<a href="topic_000000000000016F.html">DonateGO.Hubs</a>
 
 
 
@@ -138,7 +138,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Property EventId() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a></pre>			
+					<pre xml:space="preserve" class="brush: vb">&lt;HubMethodName(&quot;SendMessageNotification&quot;)&gt; _&nbsp;<br />Public Function SendMessageNotification( _&nbsp;<br />   ByVal <i>msg</i> As <a target="_top" href="topic_00000000000001F9.html" onclick="this.target='';return true;">MessageNotification</a> _&nbsp;<br />) As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +177,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> EventId {get; set;}</pre>			
+					<pre xml:space="preserve" class="brush: csharp">[HubMethodName(&quot;SendMessageNotification&quot;)]&nbsp;<br />public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a> SendMessageNotification(&nbsp;<br />   <a target="_top" href="topic_00000000000001F9.html" onclick="this.target='';return true;">MessageNotification</a> <i>msg</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +217,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />property <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> EventId {&nbsp;<br /> <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> value&nbsp;<br /> );&nbsp;<br />}</pre>			
+					<pre xml:space="preserve" class="brush: cpp">[HubMethodName(&quot;SendMessageNotification&quot;)]&nbsp;<br />public: &nbsp;<br /><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a>^ SendMessageNotification(&nbsp;<br />   <a target="_top" href="topic_00000000000001F9.html" onclick="this.target='';return true;">MessageNotification</a>^ <i>msg</i>&nbsp;<br />) </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -256,7 +256,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public function get EventId() : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a>;&nbsp;<br />public function set EventId(value : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a>);</pre>			
+					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   HubMethodName(&quot;SendMessageNotification&quot;)&nbsp;<br />function SendMessageNotification(&nbsp;<br />    <i>msg</i> : <a target="_top" href="topic_00000000000001F9.html" onclick="this.target='';return true;">MessageNotification</a>&nbsp;<br />) : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a>;</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -267,10 +267,26 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
+<h4 class="subHeading">
+	Parameters</h4><dl paramName="msg" class="parameterList">
+	<dt>
+		<span class="parameter">
+			msg
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000001F9.html" onclick="this.target='';return true;">MessageNotification</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+
+<p />
 
 	<h4 class="subHeading">
-		Property Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> 
+		Return Value</h4>
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a> 
 	
 
 
@@ -359,11 +375,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_0000000000000177.html">EventStatisticsTable Class</a><br />
+			<a href="topic_0000000000000174.html">NotificationHub Class</a><br />
 
 
 
-<a href="topic_000000000000014F.html">DonateGO.Models Namespace</a><br />
+<a href="topic_000000000000016F.html">DonateGO.Hubs Namespace</a><br />
 
 
 			

@@ -1,1 +1,1 @@
-search_result['385']=["topic_00000000000000CB_overloads--.html","MapController.CreatePickupPoint Method","Visualização da página de criação de um ponto de recolha"];
+search_result['385']=["topic_00000000000000CF.html","MapController.DonationPointDetails Method","Página de detalhes de um Ponto de Doação"];

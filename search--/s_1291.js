@@ -1,1 +1,1 @@
-search_result['1291']=["topic_00000000000002FF_props--.html","PickupPointStatistics Properties",""];
+search_result['1291']=["topic_00000000000002E0_props--.html","PointBackOfficeFormModel Properties",""];

@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>UserInstitutionsModel.User Property</title>
+	<title>StatisticsController Constructor</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,7 +74,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">UserInstitutionsModel.User Property</h1>
+		<h1 class="title">StatisticsController Constructor</h1>
         
 		<div class="metadata">
         Namespace:
@@ -138,7 +138,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Property User() As <a target="_top" href="topic_00000000000001FD.html" onclick="this.target='';return true;">User</a></pre>			
+					<pre xml:space="preserve" class="brush: vb">Public Sub New( _&nbsp;<br />   ByVal <i>context</i> As <a target="_top" href="topic_0000000000000150.html" onclick="this.target='';return true;">ApplicationDbContext</a>, _&nbsp;<br />   ByVal <i>userManager</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>(Of <a target="_top" href="topic_000000000000024F.html" onclick="this.target='';return true;">User</a>) _&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +177,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="topic_00000000000001FD.html" onclick="this.target='';return true;">User</a> User {get; set;}</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public StatisticsController(&nbsp;<br />   <a target="_top" href="topic_0000000000000150.html" onclick="this.target='';return true;">ApplicationDbContext</a> <i>context</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_000000000000024F.html" onclick="this.target='';return true;">User</a>&gt; <i>userManager</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +217,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />property <a target="_top" href="topic_00000000000001FD.html" onclick="this.target='';return true;">User</a>^ User {&nbsp;<br /> <a target="_top" href="topic_00000000000001FD.html" onclick="this.target='';return true;">User</a>^ get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="topic_00000000000001FD.html" onclick="this.target='';return true;">User</a>^ value&nbsp;<br /> );&nbsp;<br />}</pre>			
+					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />StatisticsController(&nbsp;<br />   <a target="_top" href="topic_0000000000000150.html" onclick="this.target='';return true;">ApplicationDbContext</a>^ <i>context</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_000000000000024F.html" onclick="this.target='';return true;">User</a>^&gt;^ <i>userManager</i>&nbsp;<br />) </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -256,7 +256,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public function get User() : <a target="_top" href="topic_00000000000001FD.html" onclick="this.target='';return true;">User</a>;&nbsp;<br />public function set User(value : <a target="_top" href="topic_00000000000001FD.html" onclick="this.target='';return true;">User</a>);</pre>			
+					<pre xml:space="preserve" class="brush: js">JScript does not support generic types and methods.</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -267,11 +267,36 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
+<h4 class="subHeading">
+	Parameters</h4><dl paramName="context" class="parameterList">
+	<dt>
+		<span class="parameter">
+			context
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_0000000000000150.html" onclick="this.target='';return true;">ApplicationDbContext</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="userManager" class="parameterList">
+	<dt>
+		<span class="parameter">
+			userManager
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_000000000000024F.html" onclick="this.target='';return true;">User</a>&gt; 
+	</dd>
+</dl>
+<p>
+	 
+</p>
 
-	<h4 class="subHeading">
-		Property Value</h4>
-	<a target="_top" href="topic_00000000000001FD.html" onclick="this.target='';return true;">User</a> 
-	
+<p />
+
 
 
 
@@ -359,7 +384,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_0000000000000115.html">UserInstitutionsModel Class</a><br />
+			<a href="topic_0000000000000116.html">StatisticsController Class</a><br />
 
 
 

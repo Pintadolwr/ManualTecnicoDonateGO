@@ -1,1 +1,0 @@
-c['800']=[['801',"PointBackOfficeModel Constructor","topic_00000000000002A8_overloads--.html",1],['805',"Properties","topic_0000000000000299_props--.html",1]];

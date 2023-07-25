@@ -1,1 +1,1 @@
-c['680']=[['681',"StatisticsHelper Constructor","topic_000000000000024A.html",0],['682',"Methods","topic_0000000000000249_methods--.html",1]];
+c['680']=[['681',"Date Property","topic_0000000000000237.html",0],['682',"Donations Property","topic_0000000000000238.html",0],['683',"GatheredProducts Property","topic_0000000000000236.html",0],['684',"Id Property","topic_0000000000000232.html",0],['685',"PickupPoint Property","topic_0000000000000234.html",0],['686',"PickupPointId Property","topic_0000000000000233.html",0],['687',"Views Property","topic_0000000000000235.html",0]];

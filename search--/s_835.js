@@ -1,1 +1,1 @@
-search_result['835']=["topic_00000000000001E5.html","PickupPointStatisticsTable.Date Property",""];
+search_result['835']=["topic_00000000000001CF.html","InstitutionBankInfoTable.SWIFT Property",""];

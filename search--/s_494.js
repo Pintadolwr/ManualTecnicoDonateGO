@@ -1,1 +1,1 @@
-search_result['494']=["topic_0000000000000108.html","VolunteerTableController.RejectVolunteerInvite Method","Método para rejeitar ser voluntário de uma instituição"];
+search_result['494']=["topic_0000000000000108.html","Link Class",""];

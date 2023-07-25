@@ -1,1 +1,1 @@
-search_result['1282']=["topic_00000000000002FA_vars--.html","ListPickupPointStatisticsModel Fields",""];
+search_result['1282']=["topic_00000000000002DD_overloads--.html","PointBackOfficeModel Constructor",""];

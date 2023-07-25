@@ -1,1 +1,1 @@
-search_result['1152']=["topic_0000000000000299.html","PointBackOfficeModel Class",""];
+search_result['1152']=["topic_000000000000028B_attached_props--.html","PointValuePerMonthModel Attached Properties",""];

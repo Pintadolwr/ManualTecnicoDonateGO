@@ -1,1 +1,1 @@
-search_result['521']=["topic_0000000000000119.html","DonateGO.Data Namespace",""];
+search_result['521']=["topic_0000000000000113.html","SettingsController.BankInfo (BankInfoModel) Method","Ação para guardar as informações bancárias de uma Instituição"];

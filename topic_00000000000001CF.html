@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>NotificationTable.NotificationId Property</title>
+	<title>InstitutionBankInfoTable.SWIFT Property</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">NotificationTable.NotificationId Property</h1>
+		<h1 class="title">InstitutionBankInfoTable.SWIFT Property</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_000000000000014F.html">DonateGO.Models</a>
+<a href="topic_0000000000000187.html">DonateGO.Models</a>
 
 
 
@@ -138,7 +138,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">&lt;Required()&gt; _&nbsp;<br />Public Property NotificationId() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a></pre>			
+					<pre xml:space="preserve" class="brush: vb">&lt;DisplayName(&quot;BIC/SWIFT&quot;)&gt; _&nbsp;<br />&lt;RegularExpression(&quot;[A-Z]{8}&quot;, ErrorMessage = &quot;Formato de {0} inválido&quot;)&gt; _&nbsp;<br />Public Property SWIFT() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +177,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">[Required()]&nbsp;<br />public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> NotificationId {get; set;}</pre>			
+					<pre xml:space="preserve" class="brush: csharp">[DisplayName(&quot;BIC/SWIFT&quot;)]&nbsp;<br />[RegularExpression(&quot;[A-Z]{8}&quot;, ErrorMessage = &quot;Formato de {0} inválido&quot;)]&nbsp;<br />public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> SWIFT {get; set;}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +217,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">[Required()]&nbsp;<br />public: &nbsp;<br />property <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> NotificationId {&nbsp;<br /> <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> value&nbsp;<br /> );&nbsp;<br />}</pre>			
+					<pre xml:space="preserve" class="brush: cpp">[DisplayName(&quot;BIC/SWIFT&quot;)]&nbsp;<br />[RegularExpression(&quot;[A-Z]{8}&quot;, ErrorMessage = &quot;Formato de {0} inválido&quot;)]&nbsp;<br />public: &nbsp;<br />property <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ SWIFT {&nbsp;<br /> <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ value&nbsp;<br /> );&nbsp;<br />}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -256,7 +256,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   Required()&nbsp;<br />function get NotificationId() : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a>;&nbsp;<br />public &nbsp;<br />   Required()&nbsp;<br />function set NotificationId(value : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a>);</pre>			
+					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   DisplayName(&quot;BIC/SWIFT&quot;)&nbsp;<br />   RegularExpression(&quot;[A-Z]{8}&quot;, ErrorMessage = &quot;Formato de {0} inválido&quot;)&nbsp;<br />function get SWIFT() : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>;&nbsp;<br />public &nbsp;<br />   DisplayName(&quot;BIC/SWIFT&quot;)&nbsp;<br />   RegularExpression(&quot;[A-Z]{8}&quot;, ErrorMessage = &quot;Formato de {0} inválido&quot;)&nbsp;<br />function set SWIFT(value : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>);</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -270,7 +270,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<h4 class="subHeading">
 		Property Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> 
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> 
 	
 
 
@@ -359,11 +359,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000001CD.html">NotificationTable Class</a><br />
+			<a href="topic_00000000000001CA.html">InstitutionBankInfoTable Class</a><br />
 
 
 
-<a href="topic_000000000000014F.html">DonateGO.Models Namespace</a><br />
+<a href="topic_0000000000000187.html">DonateGO.Models Namespace</a><br />
 
 
 			

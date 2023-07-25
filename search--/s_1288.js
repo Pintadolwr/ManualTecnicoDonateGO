@@ -1,1 +1,1 @@
-search_result['1288']=["topic_00000000000002FF_attached_props--.html","PickupPointStatistics Attached Properties",""];
+search_result['1288']=["topic_00000000000002E0_attached_props--.html","PointBackOfficeFormModel Attached Properties",""];

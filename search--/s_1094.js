@@ -1,1 +1,1 @@
-search_result['1094']=["topic_0000000000000271.html","EventBackOfficeModel.Latitude Property",""];
+search_result['1094']=["topic_0000000000000270.html","EmailHelper Class",""];

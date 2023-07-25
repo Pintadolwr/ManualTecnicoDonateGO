@@ -1,1 +1,0 @@
-c['801']=[['802',"PointBackOfficeModel() Constructor","topic_00000000000002A8.html",0],['803',"PointBackOfficeModel(PickupPoint) Constructor","topic_00000000000002A9.html",0],['804',"PointBackOfficeModel(PickupPointStatisticsTable) Constructor","topic_00000000000002AA.html",0]];

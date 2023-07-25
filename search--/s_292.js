@@ -1,1 +1,1 @@
-search_result['292']=["topic_0000000000000096_attached_props--.html","EventController Attached Properties",""];
+search_result['292']=["topic_0000000000000099.html","EventController.RemoveEventFromUserSavedEvents Method","Método para remover o evento do calendário de eventos guardados do utilizador"];

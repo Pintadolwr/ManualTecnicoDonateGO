@@ -1,1 +1,1 @@
-search_result['283']=["topic_0000000000000092.html","EasyPayController.MBWay  Method",""];
+search_result['283']=["topic_0000000000000092.html","EventController.InstitutionEvents Method","Visualização de todos os eventos pertencentes a uma instituição"];

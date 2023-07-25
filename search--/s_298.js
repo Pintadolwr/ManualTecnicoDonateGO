@@ -1,1 +1,1 @@
-search_result['298']=["topic_0000000000000098.html","EventController.Create  Method","Visualização da criação de um evento por parte de uma instituição"];
+search_result['298']=["topic_000000000000009D.html","EventController.AddViewToEvent Method","Método para adicionar uma visualização a um Evento"];

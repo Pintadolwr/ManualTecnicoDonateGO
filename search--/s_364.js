@@ -1,1 +1,1 @@
-search_result['364']=["topic_00000000000000BF_props--.html","InstitutionController Properties",""];
+search_result['364']=["topic_00000000000000C1.html","MapController.CreatePickupPoint (PickupPoint) Method","Ação de confirmação de um ponto de recolha"];

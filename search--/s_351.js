@@ -1,1 +1,1 @@
-search_result['351']=["topic_00000000000000B9_events--.html","HomeController Events",""];
+search_result['351']=["topic_00000000000000BA.html","InstitutionController.ConfirmDelete Method","Ação de confirmação para eliminar uma Instituição"];

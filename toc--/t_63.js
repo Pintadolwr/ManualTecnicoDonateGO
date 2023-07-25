@@ -1,1 +1,1 @@
-c['63']=[['64',"Properties","topic_000000000000004B_props--.html",1]];
+c['63']=[['64',"InputModel Class","topic_000000000000004B.html",1],['70',"RegisterModel Constructor","topic_0000000000000047.html",0],['71',"Properties","topic_0000000000000046_props--.html",1],['75',"Methods","topic_0000000000000046_methods--.html",1]];

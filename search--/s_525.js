@@ -1,1 +1,1 @@
-search_result['525']=["topic_000000000000011A_methods--.html","ApplicationDbContext Methods",""];
+search_result['525']=["topic_0000000000000115.html","SettingsController.PayPalInfo (PayPalInfoModel) Method","Método para definir o PayPal de uma Instituição"];

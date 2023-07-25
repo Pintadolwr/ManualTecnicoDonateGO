@@ -1,1 +1,1 @@
-search_result['406']=["topic_00000000000000D9.html","MapController.InstitutionPickupPoints Method","View para a listagem de os pontos de recolha de uma Instituição"];
+search_result['406']=["topic_00000000000000DC_attached_props--.html","PaymentController Attached Properties",""];

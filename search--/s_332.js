@@ -1,1 +1,1 @@
-search_result['332']=["topic_00000000000000AF.html","FilterController.GetPickupPoints Method","Visualização dos pontos de recolha"];
+search_result['332']=["topic_00000000000000AF_props--.html","HomeController Properties",""];

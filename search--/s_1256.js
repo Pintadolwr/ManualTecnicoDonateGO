@@ -1,1 +1,1 @@
-search_result['1256']=["topic_00000000000002E5.html","InstitutionStatistics.TotalPickupPoints Property",""];
+search_result['1256']=["topic_00000000000002C9.html","EditInstitutionModel.Description Property",""];

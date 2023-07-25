@@ -1,1 +1,1 @@
-search_result['352']=["topic_00000000000000B9_methods--.html","HomeController Methods",""];
+search_result['352']=["topic_00000000000000BB.html","InstitutionController.AddViewToInstitution Method",""];

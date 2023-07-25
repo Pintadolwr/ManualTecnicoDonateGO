@@ -1,1 +1,1 @@
-search_result['1224']=["topic_00000000000002CF.html","InstitutionPickupPointsStatistics Class",""];
+search_result['1224']=["topic_00000000000002B6_events--.html","EventBackOfficeFormModel Events",""];

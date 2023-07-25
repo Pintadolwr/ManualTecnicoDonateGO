@@ -1,1 +1,1 @@
-search_result['388']=["topic_00000000000000CD.html","MapController.DonationPoints Method","Visualização de todos os pontos de doação na base de dados"];
+search_result['388']=["topic_00000000000000D1_overloads--.html","MapController.PointBackOffice Method","Método para a visualização da página de BackOffice de um Ponto de Recolha"];

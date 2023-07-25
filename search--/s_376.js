@@ -1,1 +1,1 @@
-search_result['376']=["topic_00000000000000C7_attached_props--.html","MapController Attached Properties",""];
+search_result['376']=["topic_00000000000000C7_overloads--.html","MapController.EditPickupPoint Method","Método para o retorno da página de edição de um Ponto de Recolha"];

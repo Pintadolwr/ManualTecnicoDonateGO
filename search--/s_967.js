@@ -1,1 +1,1 @@
-search_result['967']=["topic_000000000000022E_vars--.html","SDDMandate Fields",""];
+search_result['967']=["topic_0000000000000227.html","PickupPoint.Longitude Property",""];

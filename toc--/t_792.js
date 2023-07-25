@@ -1,1 +1,1 @@
-c['792']=[['793',"PointBackOfficeFormModel Class","topic_00000000000002AB.html",1],['800',"PointBackOfficeModel Class","topic_0000000000000299.html",1]];
+c['792']=[['793',"ChatId Property","topic_0000000000000297.html",0],['794',"Id Property","topic_0000000000000296.html",0],['795',"Message Property","topic_0000000000000298.html",0]];

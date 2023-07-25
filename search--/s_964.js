@@ -1,1 +1,1 @@
-search_result['964']=["topic_000000000000022E_events--.html","SDDMandate Events",""];
+search_result['964']=["topic_0000000000000224.html","PickupPoint.Id Property",""];

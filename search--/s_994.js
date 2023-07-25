@@ -1,1 +1,1 @@
-search_result['994']=["topic_000000000000023B_props--.html","EmailSender Properties",""];
+search_result['994']=["topic_000000000000023B.html","PickupPointDonationsTable Class",""];

@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>PickupPointViewTable.Id Property</title>
+	<title>Notification Class</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">PickupPointViewTable.Id Property</h1>
+		<h1 class="title">Notification Class</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_000000000000014F.html">DonateGO.Models</a>
+<a href="topic_0000000000000187.html">DonateGO.Models</a>
 
 
 
@@ -89,6 +89,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
+        <summary-info>Classe base de uma Notificação
+Apresenta os atributos base e a função de redirect.
+A função Redirect retorna uma string com o redirect específico da notificação.
+Se for um Evento retorna a string para a página de detalhes do evento.
+Se for uma Mensagem retorna a string para a página de mensagens do utilizador.</summary-info>
 
 
 
@@ -138,7 +143,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Property Id() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a></pre>			
+					<pre xml:space="preserve" class="brush: vb">Public MustInherit Class Notification</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +182,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> Id {get; set;}</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public abstract class Notification</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +222,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />property <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> Id {&nbsp;<br /> <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> value&nbsp;<br /> );&nbsp;<br />}</pre>			
+					<pre xml:space="preserve" class="brush: cpp">public ref class Notification abstract </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -256,7 +261,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public function get Id() : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a>;&nbsp;<br />public function set Id(value : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a>);</pre>			
+					<pre xml:space="preserve" class="brush: js">public abstract class Notification</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -267,11 +272,6 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
-
-	<h4 class="subHeading">
-		Property Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> 
-	
 
 
 
@@ -288,6 +288,293 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	</div>
 </div>
+
+
+
+
+<div class="section_container">
+	<div class="section_heading">
+		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Properties</a></span>
+		<div>&nbsp;</div>
+	</div>
+
+	<div id="PropertiesSection" class="section">	
+  <table class="memberListTable">
+    <tr>
+      <th></th>
+      <th>
+        Name
+      </th>
+      <th>
+        Description
+      </th>
+    </tr>
+
+
+	
+		<tr class="
+
+
+">
+	<td>
+<img alt="Public property" title="Public property" src="msdn2019/pubproperty.png"></img>
+
+
+    
+	</td>
+	<td>
+	<a href="topic_00000000000001F1.html">Id</a>
+
+	</td>
+	<td>
+
+
+
+	</td>
+</tr>
+	
+
+
+	
+		<tr class="
+
+
+">
+	<td>
+<img alt="Public property" title="Public property" src="msdn2019/pubproperty.png"></img>
+
+
+    
+	</td>
+	<td>
+	<a href="topic_00000000000001F7.html">Message</a>
+
+	</td>
+	<td>
+
+
+
+	</td>
+</tr>
+	
+
+
+	
+		<tr class="
+
+
+">
+	<td>
+<img alt="Public property" title="Public property" src="msdn2019/pubproperty.png"></img>
+
+
+    
+	</td>
+	<td>
+	<a href="topic_00000000000001F5.html">Receiver</a>
+
+	</td>
+	<td>
+
+
+
+	</td>
+</tr>
+	
+
+
+	
+		<tr class="
+
+
+">
+	<td>
+<img alt="Public property" title="Public property" src="msdn2019/pubproperty.png"></img>
+
+
+    
+	</td>
+	<td>
+	<a href="topic_00000000000001F4.html">ReceiverId</a>
+
+	</td>
+	<td>
+
+
+
+	</td>
+</tr>
+	
+
+
+	
+		<tr class="
+
+
+">
+	<td>
+<img alt="Public property" title="Public property" src="msdn2019/pubproperty.png"></img>
+
+
+    
+	</td>
+	<td>
+	<a href="topic_00000000000001F3.html">Sender</a>
+
+	</td>
+	<td>
+
+
+
+	</td>
+</tr>
+	
+
+
+	
+		<tr class="
+
+
+">
+	<td>
+<img alt="Public property" title="Public property" src="msdn2019/pubproperty.png"></img>
+
+
+    
+	</td>
+	<td>
+	<a href="topic_00000000000001F2.html">SenderId</a>
+
+	</td>
+	<td>
+
+
+
+	</td>
+</tr>
+	
+
+
+	
+		<tr class="
+
+
+">
+	<td>
+<img alt="Public property" title="Public property" src="msdn2019/pubproperty.png"></img>
+
+
+    
+	</td>
+	<td>
+	<a href="topic_00000000000001F6.html">Type</a>
+
+	</td>
+	<td>
+
+
+
+	</td>
+</tr>
+	
+
+
+  </table>
+
+  <a href="#mainBody">
+    Top
+  </a>
+
+	</div>					
+</div>
+
+
+
+
+
+
+<div class="section_container">
+	<div class="section_heading">
+		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Methods</a></span>
+		<div>&nbsp;</div>
+	</div>
+
+	<div id="MethodsSection" class="section">	
+  <table class="memberListTable">
+    <tr>
+      <th></th>
+      <th>
+        Name
+      </th>
+      <th>
+        Description
+      </th>
+    </tr>
+
+
+
+
+	<tr class="
+
+
+">
+	<td>
+<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
+
+
+    
+	</td>
+	<td>
+	<a href="topic_00000000000001F8.html">Redirect()</a>
+
+	</td>
+	<td>
+
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+  </table>
+
+  <a href="#mainBody">
+    Top
+  </a>
+
+	</div>					
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+<!-- Classes -->
+
+<!-- Classes End -->
+
+<!-- Standard Modules -->
+
+<!-- Standard Modules End -->
+
+  
+
+
+
 
 
 
@@ -351,6 +638,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>					
 </div>
 
+
 <div class="section_container">
 	<div class="section_heading">
 		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">See Also</a></span>
@@ -359,14 +647,10 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000001EF.html">PickupPointViewTable Class</a><br />
+	<a href="topic_0000000000000187.html">DonateGO.Models Namespace</a><br />
 
 
-
-<a href="topic_000000000000014F.html">DonateGO.Models Namespace</a><br />
-
-
-			
+	
 
 		</div>
 	</div>					

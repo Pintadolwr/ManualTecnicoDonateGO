@@ -1,1 +1,1 @@
-search_result['539']=["topic_0000000000000126.html","ApplicationDbContext.MessageModel Property",""];
+search_result['539']=["topic_000000000000011D.html","StatisticsController.InstitutionPickupPointsStatistics Method","Página com todas as estatísticas dos Pontos de Recolha de uma Instituição"];

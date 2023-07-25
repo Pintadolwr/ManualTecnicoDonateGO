@@ -1,1 +1,1 @@
-search_result['857']=["topic_00000000000001EF_vars--.html","PickupPointViewTable Fields",""];
+search_result['857']=["topic_00000000000001D9_vars--.html","InstitutionViewTable Fields",""];

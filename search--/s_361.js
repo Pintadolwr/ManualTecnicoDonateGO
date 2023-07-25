@@ -1,1 +1,1 @@
-search_result['361']=["topic_00000000000000BF_attached_props--.html","InstitutionController Attached Properties",""];
+search_result['361']=["topic_00000000000000BF.html","MapController.PickupPoints Method","Visualização de todos os pontos de recolha na base de dados"];

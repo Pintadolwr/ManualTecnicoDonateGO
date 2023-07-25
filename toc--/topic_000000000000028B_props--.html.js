@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"DonateGO Reference","topic_0000000000000377.html"],['742',"DonateGO.Services Namespace","topic_000000000000026A.html"],['773',"PointValuePerMonthModel Class","topic_000000000000028B.html"],['775',"Properties","topic_000000000000028B_props--.html"]];

@@ -1,1 +1,1 @@
-search_result['566']=["topic_000000000000013C.html","NotificationHub Class",""];
+search_result['566']=["topic_000000000000012C.html","UserController.Delete Method","Visualização da página para eliminar um utilizador ou instituição"];

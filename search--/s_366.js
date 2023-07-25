@@ -1,1 +1,1 @@
-search_result['366']=["topic_00000000000000C0.html","InstitutionController Constructor","Construtor do controlador da Instituição"];
+search_result['366']=["topic_00000000000000C2.html","MapController.DonationPoints Method","Visualização de todos os pontos de doação na base de dados"];

@@ -1,1 +1,1 @@
-search_result['1244']=["topic_00000000000002DE.html","InstitutionPickupPointsStatistics.AverageDonationsThisMonthPerWeek Property",""];
+search_result['1244']=["topic_00000000000002C2.html","DonateGO.Views.Institution Namespace",""];

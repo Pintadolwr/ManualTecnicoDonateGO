@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"DonateGO Reference","topic_0000000000000327.html"],['4',"DonateGO Namespace","topic_000000000000031F.html"]];
+var breadcrumbs=[['-1',"",""],['2',"DonateGO Reference","topic_0000000000000377.html"],['948',"DonateGO.Views.Statistics.InstitutionPickupPointsStatistics Namespace","topic_000000000000031D.html"],['949',"InstitutionPickupPointsStatistics Class","topic_000000000000031E.html"],['967',"Fields","topic_000000000000031E_vars--.html"],['969',"institution Field","topic_000000000000031F.html"]];

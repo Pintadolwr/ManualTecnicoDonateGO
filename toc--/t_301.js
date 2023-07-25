@@ -1,1 +1,1 @@
-c['301']=[['302',"NotificationController Constructor","topic_00000000000000E0.html",0],['303',"Methods","topic_00000000000000DF_methods--.html",1]];
+c['301']=[['302',"CreateDonationPoint() Method","topic_00000000000000C3.html",0],['303',"CreateDonationPoint(DonationPoint) Method","topic_00000000000000C4.html",0]];

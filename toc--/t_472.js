@@ -1,1 +1,0 @@
-c['472']=[['473',"Redirect Method","topic_00000000000001BF.html",0]];

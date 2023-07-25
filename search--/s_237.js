@@ -1,1 +1,1 @@
-search_result['237']=["topic_0000000000000075.html","ChatController.SendMessage Method",""];
+search_result['237']=["topic_0000000000000075.html","ChatController.SendMessage Method","Método para o envio de uma mensagem"];

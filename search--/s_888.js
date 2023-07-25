@@ -1,1 +1,1 @@
-search_result['888']=["topic_00000000000001FF.html","User.UserPhoto Property",""];
+search_result['888']=["topic_00000000000001F0.html","Notification Class","Classe base de uma Notificação\r\nApresenta os atributos base e a função de redirect.\r\nA função Redirect retorna uma string com o redirect específico da notificação.\r\nSe for um Evento retorna a string p..."];

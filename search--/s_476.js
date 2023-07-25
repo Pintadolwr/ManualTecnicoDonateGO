@@ -1,1 +1,1 @@
-search_result['476']=["topic_0000000000000100_events--.html","EventColorParams Events",""];
+search_result['476']=["topic_0000000000000100.html","Amount Class",""];

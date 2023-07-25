@@ -1,1 +1,1 @@
-c['391']=[['392',"OnModelCreating Method","topic_0000000000000135.html",0]];
+c['391']=[['392',"EditProfile() Method","topic_000000000000012A.html",0],['393',"EditProfile(EditUserModel) Method","topic_000000000000012B.html",0]];

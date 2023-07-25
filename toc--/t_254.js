@@ -1,1 +1,0 @@
-c['254']=[['255',"AddViewToInstitution Method","topic_00000000000000C6.html",0],['256',"ConfirmDelete Method","topic_00000000000000C5.html",0],['257',"EditProfile Method","topic_00000000000000C2_overloads--.html",1],['260',"ListInstitutions Method","topic_00000000000000C4.html",0],['261',"Profile Method","topic_00000000000000C1.html",0]];

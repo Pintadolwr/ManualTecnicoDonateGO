@@ -1,1 +1,1 @@
-search_result['514']=["topic_0000000000000115_events--.html","UserInstitutionsModel Events",""];
+search_result['514']=["topic_000000000000010F_methods--.html","SettingsController Methods",""];

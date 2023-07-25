@@ -1,1 +1,1 @@
-search_result['1301']=["topic_0000000000000308.html","PickupPointStatistics.AverageDonationsWeightPerMonth Property",""];
+search_result['1301']=["topic_00000000000002E7_events--.html","InstitutionDonationsModel Events",""];

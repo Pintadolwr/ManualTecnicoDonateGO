@@ -1,1 +1,1 @@
-search_result['559']=["topic_0000000000000138_events--.html","INotificationClient Events",""];
+search_result['559']=["topic_0000000000000127.html","UserController Constructor","Construtor do controlador do Utilizador"];

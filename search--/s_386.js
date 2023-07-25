@@ -1,1 +1,1 @@
-search_result['386']=["topic_00000000000000CC.html","MapController.CreatePickupPoint (PickupPoint) Method","Ação de confirmação de um ponto de recolha"];
+search_result['386']=["topic_00000000000000D0.html","MapController.PickupPointDetails Method","Página de Detalhes de um Ponto de Recolha"];

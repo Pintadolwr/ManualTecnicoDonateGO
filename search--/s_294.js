@@ -1,1 +1,1 @@
-search_result['294']=["topic_0000000000000096_methods--.html","EventController Methods",""];
+search_result['294']=["topic_000000000000009B.html","EventController.EventBackOffice (Guid) Method","Método para o retorno da página de BackOffice de um Evento"];

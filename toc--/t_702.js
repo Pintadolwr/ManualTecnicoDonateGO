@@ -1,1 +1,1 @@
-c['702']=[['703',"Properties","topic_0000000000000222_props--.html",1]];
+c['702']=[['703',"Id Property","topic_000000000000024D.html",0],['704',"Name Property","topic_000000000000024E.html",0]];

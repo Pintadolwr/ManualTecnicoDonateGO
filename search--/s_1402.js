@@ -1,0 +1,1 @@
+search_result['1402']=["topic_0000000000000330.html","InstitutionPickupPointsStatistics.GeneralPickupPointsList Property",""];

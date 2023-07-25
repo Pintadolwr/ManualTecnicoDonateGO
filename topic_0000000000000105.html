@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>VolunteerTableController.AddVolunteer  Method</title>
+	<title>CreateOrderResponse.Id Property</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,7 +74,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">VolunteerTableController.AddVolunteer  Method</h1>
+		<h1 class="title">CreateOrderResponse.Id Property</h1>
         
 		<div class="metadata">
         Namespace:
@@ -89,7 +89,6 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Método para retornar a View para adicionar um voluntário a uma instituição</summary-info>
 
 
 
@@ -139,7 +138,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">&lt;HttpGet()&gt; _&nbsp;<br />&lt;Authorize(Roles =&quot;Institution, Admin&quot;)&gt; _&nbsp;<br />Public Function AddVolunteer() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a></pre>			
+					<pre xml:space="preserve" class="brush: vb">&lt;JsonProperty(&quot;id&quot;)&gt; _&nbsp;<br />Public Property Id() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -178,7 +177,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">[HttpGet()]&nbsp;<br />[Authorize(Roles =&quot;Institution, Admin&quot;)]&nbsp;<br />public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a> AddVolunteer()</pre>			
+					<pre xml:space="preserve" class="brush: csharp">[JsonProperty(&quot;id&quot;)]&nbsp;<br />public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> Id {get; set;}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -218,7 +217,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">[HttpGet()]&nbsp;<br />[Authorize(Roles =&quot;Institution, Admin&quot;)]&nbsp;<br />public: &nbsp;<br /><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a>^ AddVolunteer() </pre>			
+					<pre xml:space="preserve" class="brush: cpp">[JsonProperty(&quot;id&quot;)]&nbsp;<br />public: &nbsp;<br />property <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ Id {&nbsp;<br /> <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ value&nbsp;<br /> );&nbsp;<br />}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -257,7 +256,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   HttpGet()&nbsp;<br />   Authorize(Roles =&quot;Institution, Admin&quot;)&nbsp;<br />function AddVolunteer() : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a>;</pre>			
+					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   JsonProperty(&quot;id&quot;)&nbsp;<br />function get Id() : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>;&nbsp;<br />public &nbsp;<br />   JsonProperty(&quot;id&quot;)&nbsp;<br />function set Id(value : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>);</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -270,8 +269,8 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 	<h4 class="subHeading">
-		Return Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a> 
+		Property Value</h4>
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> 
 	
 
 
@@ -360,7 +359,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_0000000000000102.html">VolunteerTableController Class</a><br />
+			<a href="topic_0000000000000104.html">CreateOrderResponse Class</a><br />
 
 
 

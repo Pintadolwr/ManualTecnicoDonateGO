@@ -1,1 +1,1 @@
-search_result['1011']=["topic_0000000000000242_props--.html","NotificationHelper Properties",""];
+search_result['1011']=["topic_0000000000000242.html","PickupPointViewTable.Id Property",""];

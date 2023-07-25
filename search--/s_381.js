@@ -1,1 +1,1 @@
-search_result['381']=["topic_00000000000000C8.html","MapController Constructor","Construtor do controlador do Mapa"];
+search_result['381']=["topic_00000000000000CB.html","MapController.DeletePickupPoint Method","Método para o retorno da página para eliminar um Ponto de Recolha"];

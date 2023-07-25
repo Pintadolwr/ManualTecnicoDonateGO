@@ -1,1 +1,1 @@
-search_result['350']=["topic_00000000000000B9_attached_props--.html","HomeController Attached Properties",""];
+search_result['350']=["topic_00000000000000B9.html","InstitutionController.ListInstitutions Method","View para a listagem de as instituições na base de dados"];

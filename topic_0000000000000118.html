@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>UserInstitutionsModel.Institution Property</title>
+	<title>StatisticsController.Index Method</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,7 +74,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">UserInstitutionsModel.Institution Property</h1>
+		<h1 class="title">StatisticsController.Index Method</h1>
         
 		<div class="metadata">
         Namespace:
@@ -89,6 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
+        <summary-info>Método para o retorno da página principal de Gestão</summary-info>
 
 
 
@@ -138,7 +139,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Property Institution() As <a target="_top" href="topic_000000000000018C.html" onclick="this.target='';return true;">Institution</a></pre>			
+					<pre xml:space="preserve" class="brush: vb">&lt;Authorize(Roles = (&quot;Institution, Volunteer, Default, Admin&quot;))&gt; _&nbsp;<br />Public Function Index() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>(Of <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a>)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +178,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="topic_000000000000018C.html" onclick="this.target='';return true;">Institution</a> Institution {get; set;}</pre>			
+					<pre xml:space="preserve" class="brush: csharp">[Authorize(Roles = (&quot;Institution, Volunteer, Default, Admin&quot;))]&nbsp;<br />public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a>&gt; Index()</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +218,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />property <a target="_top" href="topic_000000000000018C.html" onclick="this.target='';return true;">Institution</a>^ Institution {&nbsp;<br /> <a target="_top" href="topic_000000000000018C.html" onclick="this.target='';return true;">Institution</a>^ get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="topic_000000000000018C.html" onclick="this.target='';return true;">Institution</a>^ value&nbsp;<br /> );&nbsp;<br />}</pre>			
+					<pre xml:space="preserve" class="brush: cpp">[Authorize(Roles = (&quot;Institution, Volunteer, Default, Admin&quot;))]&nbsp;<br />public: &nbsp;<br /><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a>^&gt;^ Index() </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -256,7 +257,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public function get Institution() : <a target="_top" href="topic_000000000000018C.html" onclick="this.target='';return true;">Institution</a>;&nbsp;<br />public function set Institution(value : <a target="_top" href="topic_000000000000018C.html" onclick="this.target='';return true;">Institution</a>);</pre>			
+					<pre xml:space="preserve" class="brush: js">JScript does not support generic types and methods.</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -269,8 +270,8 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 	<h4 class="subHeading">
-		Property Value</h4>
-	<a target="_top" href="topic_000000000000018C.html" onclick="this.target='';return true;">Institution</a> 
+		Return Value</h4>
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a>&gt; 
 	
 
 
@@ -359,7 +360,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_0000000000000115.html">UserInstitutionsModel Class</a><br />
+			<a href="topic_0000000000000116.html">StatisticsController Class</a><br />
 
 
 

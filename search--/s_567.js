@@ -1,1 +1,1 @@
-search_result['567']=["topic_000000000000013C_attached_props--.html","NotificationHub Attached Properties",""];
+search_result['567']=["topic_000000000000012D.html","UserController.ConfirmDelete Method","Ação de confirmação para eliminar um utilizador"];

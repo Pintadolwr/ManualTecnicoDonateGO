@@ -1,1 +1,1 @@
-search_result['980']=["topic_0000000000000236_vars--.html","AuthMessageSenderOptions Fields",""];
+search_result['980']=["topic_0000000000000231_methods--.html","PickupPointStatisticsTable Methods",""];

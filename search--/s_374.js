@@ -1,1 +1,1 @@
-search_result['374']=["topic_00000000000000C6.html","InstitutionController.AddViewToInstitution Method",""];
+search_result['374']=["topic_00000000000000C6_overloads--.html","MapController.EditDonationPoint Method","Ação de confirmação da edição de um Ponto de Recolha"];

@@ -1,1 +1,1 @@
-search_result['825']=["topic_00000000000001DF_attached_props--.html","PickupPointStatisticsTable Attached Properties",""];
+search_result['825']=["topic_00000000000001CA.html","InstitutionBankInfoTable Class","Classe de tabela de dados para guardar as informações bancárias de uma Instituição"];

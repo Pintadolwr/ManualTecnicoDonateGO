@@ -1,1 +1,1 @@
-search_result['346']=["topic_00000000000000B6.html","FormController.ListForms Method","Visualização de todos os formulários para aprovação"];
+search_result['346']=["topic_00000000000000B7.html","InstitutionController.EditProfile  Method","Visualização da página de edição do perfil de uma instituição"];

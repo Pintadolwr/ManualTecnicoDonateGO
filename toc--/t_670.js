@@ -1,0 +1,1 @@
+c['670']=[['671',"Category Property","topic_000000000000023F.html",0],['672',"Id Property","topic_000000000000023C.html",0],['673',"PickupPoint Property","topic_000000000000023E.html",0],['674',"PickupPointId Property","topic_000000000000023D.html",0],['675',"Product Property","topic_0000000000000240.html",0]];

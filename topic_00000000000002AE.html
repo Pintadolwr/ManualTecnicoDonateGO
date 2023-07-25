@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>PointBackOfficeFormModel.GatheredProducts Property</title>
+	<title>EventBackOfficeModel.Photo Property</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">PointBackOfficeFormModel.GatheredProducts Property</h1>
+		<h1 class="title">EventBackOfficeModel.Photo Property</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_0000000000000298.html">DonateGO.Views.Map.PointBackOffice</a>
+<a href="topic_00000000000002A0.html">DonateGO.Views.Event.EventBackOffice</a>
 
 
 
@@ -138,7 +138,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">&lt;Required()&gt; _&nbsp;<br />&lt;DisplayName(&quot;Peso dos Produtos Recolhidos&quot;)&gt; _&nbsp;<br />&lt;Range(1, 9999.99, ErrorMessage = &quot;Deve inserir um número entre 0 e 9999.99&quot;)&gt; _&nbsp;<br />Public Property GatheredProducts() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">Double</a></pre>			
+					<pre xml:space="preserve" class="brush: vb">&lt;DisplayName(&quot;Imagem&quot;)&gt; _&nbsp;<br />Public Property Photo() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">Byte</a>()</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +177,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">[Required()]&nbsp;<br />[DisplayName(&quot;Peso dos Produtos Recolhidos&quot;)]&nbsp;<br />[Range(1, 9999.99, ErrorMessage = &quot;Deve inserir um número entre 0 e 9999.99&quot;)]&nbsp;<br />public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">double</a> GatheredProducts {get; set;}</pre>			
+					<pre xml:space="preserve" class="brush: csharp">[DisplayName(&quot;Imagem&quot;)]&nbsp;<br />public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">byte</a>[] Photo {get; set;}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +217,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">[Required()]&nbsp;<br />[DisplayName(&quot;Peso dos Produtos Recolhidos&quot;)]&nbsp;<br />[Range(1, 9999.99, ErrorMessage = &quot;Deve inserir um número entre 0 e 9999.99&quot;)]&nbsp;<br />public: &nbsp;<br />property <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">double</a> GatheredProducts {&nbsp;<br /> <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">double</a> get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">double</a> value&nbsp;<br /> );&nbsp;<br />}</pre>			
+					<pre xml:space="preserve" class="brush: cpp">[DisplayName(&quot;Imagem&quot;)]&nbsp;<br />public: &nbsp;<br />property array&lt; <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">Byte</a> &gt;^ Photo {&nbsp;<br /> array&lt; <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">Byte</a> &gt;^ get( );&nbsp;<br /> void set(&nbsp;<br />   array&lt; <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">Byte</a> &gt;^ value&nbsp;<br /> );&nbsp;<br />}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -256,7 +256,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   Required()&nbsp;<br />   DisplayName(&quot;Peso dos Produtos Recolhidos&quot;)&nbsp;<br />   Range(1, 9999.99, ErrorMessage = &quot;Deve inserir um número entre 0 e 9999.99&quot;)&nbsp;<br />function get GatheredProducts() : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">double</a>;&nbsp;<br />public &nbsp;<br />   Required()&nbsp;<br />   DisplayName(&quot;Peso dos Produtos Recolhidos&quot;)&nbsp;<br />   Range(1, 9999.99, ErrorMessage = &quot;Deve inserir um número entre 0 e 9999.99&quot;)&nbsp;<br />function set GatheredProducts(value : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">double</a>);</pre>			
+					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   DisplayName(&quot;Imagem&quot;)&nbsp;<br />function get Photo() : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">byte</a>[];&nbsp;<br />public &nbsp;<br />   DisplayName(&quot;Imagem&quot;)&nbsp;<br />function set Photo(value : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">byte</a>[]);</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -270,7 +270,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<h4 class="subHeading">
 		Property Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">double</a> 
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.byte">byte</a>[] 
 	
 
 
@@ -359,11 +359,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000002AB.html">PointBackOfficeFormModel Class</a><br />
+			<a href="topic_00000000000002A1.html">EventBackOfficeModel Class</a><br />
 
 
 
-<a href="topic_0000000000000298.html">DonateGO.Views.Map.PointBackOffice Namespace</a><br />
+<a href="topic_00000000000002A0.html">DonateGO.Views.Event.EventBackOffice Namespace</a><br />
 
 
 			

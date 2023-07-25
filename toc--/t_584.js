@@ -1,1 +1,0 @@
-c['584']=[['585',"PickupPointStatisticsTable() Constructor","topic_00000000000001E7.html",0],['586',"PickupPointStatisticsTable(PickupPoint) Constructor","topic_00000000000001E8.html",0]];

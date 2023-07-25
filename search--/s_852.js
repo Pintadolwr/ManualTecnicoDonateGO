@@ -1,1 +1,1 @@
-search_result['852']=["topic_00000000000001EF.html","PickupPointViewTable Class",""];
+search_result['852']=["topic_00000000000001D9.html","InstitutionViewTable Class",""];

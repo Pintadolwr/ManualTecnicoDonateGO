@@ -1,1 +1,1 @@
-search_result['382']=["topic_00000000000000C9.html","MapController.Index Method","Visualização da view principal do mapa"];
+search_result['382']=["topic_00000000000000CC.html","MapController.ConfirmDeletePickupPoint Method","Ação de confirmação da eliminação de um Ponto de Recolha"];

@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>ListPickupPointStatisticsModel.GatheredProducts Property</title>
+	<title>BankInfoModel.Reference Property</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">ListPickupPointStatisticsModel.GatheredProducts Property</h1>
+		<h1 class="title">BankInfoModel.Reference Property</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_00000000000002F9.html">DonateGO.Views.Statistics</a>
+<a href="topic_00000000000002F7.html">DonateGO.Views.Settings</a>
 
 
 
@@ -138,7 +138,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Property GatheredProducts() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">Double</a></pre>			
+					<pre xml:space="preserve" class="brush: vb">&lt;DisplayName(&quot;Referência&quot;)&gt; _&nbsp;<br />&lt;RegularExpression(&quot;\\d\\d\\d\\s\\d\\d\\d\\s\\d\\d\\d&quot;, ErrorMessage = &quot;Formato de {0} inválido&quot;)&gt; _&nbsp;<br />Public Property Reference() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +177,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">double</a> GatheredProducts {get; set;}</pre>			
+					<pre xml:space="preserve" class="brush: csharp">[DisplayName(&quot;Referência&quot;)]&nbsp;<br />[RegularExpression(&quot;\\d\\d\\d\\s\\d\\d\\d\\s\\d\\d\\d&quot;, ErrorMessage = &quot;Formato de {0} inválido&quot;)]&nbsp;<br />public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> Reference {get; set;}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +217,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />property <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">double</a> GatheredProducts {&nbsp;<br /> <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">double</a> get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">double</a> value&nbsp;<br /> );&nbsp;<br />}</pre>			
+					<pre xml:space="preserve" class="brush: cpp">[DisplayName(&quot;Referência&quot;)]&nbsp;<br />[RegularExpression(&quot;\\d\\d\\d\\s\\d\\d\\d\\s\\d\\d\\d&quot;, ErrorMessage = &quot;Formato de {0} inválido&quot;)]&nbsp;<br />public: &nbsp;<br />property <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ Reference {&nbsp;<br /> <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ value&nbsp;<br /> );&nbsp;<br />}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -256,7 +256,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public function get GatheredProducts() : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">double</a>;&nbsp;<br />public function set GatheredProducts(value : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">double</a>);</pre>			
+					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   DisplayName(&quot;Referência&quot;)&nbsp;<br />   RegularExpression(&quot;\\d\\d\\d\\s\\d\\d\\d\\s\\d\\d\\d&quot;, ErrorMessage = &quot;Formato de {0} inválido&quot;)&nbsp;<br />function get Reference() : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>;&nbsp;<br />public &nbsp;<br />   DisplayName(&quot;Referência&quot;)&nbsp;<br />   RegularExpression(&quot;\\d\\d\\d\\s\\d\\d\\d\\s\\d\\d\\d&quot;, ErrorMessage = &quot;Formato de {0} inválido&quot;)&nbsp;<br />function set Reference(value : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>);</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -270,7 +270,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<h4 class="subHeading">
 		Property Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.double">double</a> 
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> 
 	
 
 
@@ -359,11 +359,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000002FA.html">ListPickupPointStatisticsModel Class</a><br />
+			<a href="topic_00000000000002F8.html">BankInfoModel Class</a><br />
 
 
 
-<a href="topic_00000000000002F9.html">DonateGO.Views.Statistics Namespace</a><br />
+<a href="topic_00000000000002F7.html">DonateGO.Views.Settings Namespace</a><br />
 
 
 			

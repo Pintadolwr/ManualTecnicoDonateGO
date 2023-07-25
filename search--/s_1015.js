@@ -1,1 +1,1 @@
-search_result['1015']=["topic_0000000000000245.html","NotificationHelper.AddEventNotification Method",""];
+search_result['1015']=["topic_0000000000000246.html","PickupPointViewTable.PickupPoint Property",""];

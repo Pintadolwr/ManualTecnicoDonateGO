@@ -1,1 +1,1 @@
-search_result['834']=["topic_00000000000001E4.html","PickupPointStatisticsTable.GatheredProducts Property",""];
+search_result['834']=["topic_00000000000001CE.html","InstitutionBankInfoTable.IBAN Property",""];

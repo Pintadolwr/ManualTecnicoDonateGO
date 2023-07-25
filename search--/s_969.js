@@ -1,1 +1,1 @@
-search_result['969']=["topic_0000000000000230.html","SDDMandate.IBAN Property",""];
+search_result['969']=["topic_0000000000000229.html","PickupPoint.Description Property",""];

@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>NotificationController Constructor</title>
+	<title>PaymentController.SetOrderStatus Method</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,7 +74,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">NotificationController Constructor</h1>
+		<h1 class="title">PaymentController.SetOrderStatus Method</h1>
         
 		<div class="metadata">
         Namespace:
@@ -89,6 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
+        <summary-info>Método para a alteração do estado de uma doação/pagamento</summary-info>
 
 
 
@@ -138,7 +139,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Sub New( _&nbsp;<br />   ByVal <i>context</i> As <a target="_top" href="topic_000000000000011A.html" onclick="this.target='';return true;">ApplicationDbContext</a>, _&nbsp;<br />   ByVal <i>userManager</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>(Of <a target="_top" href="topic_00000000000001FD.html" onclick="this.target='';return true;">User</a>), _&nbsp;<br />   ByVal <i>hubContext</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.signalr.ihubcontext-2">IHubContext</a>(Of <a target="_top" href="topic_000000000000013C.html" onclick="this.target='';return true;">NotificationHub</a>, <a target="_top" href="topic_0000000000000138.html" onclick="this.target='';return true;">INotificationClient</a>) _&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: vb">&lt;HttpPost()&gt; _&nbsp;<br />Public Function SetOrderStatus( _&nbsp;<br />   &lt;FromBody()&gt; _&nbsp;<br />   ByVal <i>order</i> As <a target="_top" href="topic_00000000000000E6.html" onclick="this.target='';return true;">OrderStatusRequest</a> _&nbsp;<br />) As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +178,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public NotificationController(&nbsp;<br />   <a target="_top" href="topic_000000000000011A.html" onclick="this.target='';return true;">ApplicationDbContext</a> <i>context</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_00000000000001FD.html" onclick="this.target='';return true;">User</a>&gt; <i>userManager</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.signalr.ihubcontext-2">IHubContext</a>&lt;<a target="_top" href="topic_000000000000013C.html" onclick="this.target='';return true;">NotificationHub</a>, <a target="_top" href="topic_0000000000000138.html" onclick="this.target='';return true;">INotificationClient</a>&gt; <i>hubContext</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">[HttpPost()]&nbsp;<br />public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a> SetOrderStatus(&nbsp;<br />   [FromBody()]&nbsp;<br />   <a target="_top" href="topic_00000000000000E6.html" onclick="this.target='';return true;">OrderStatusRequest</a> <i>order</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +218,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />NotificationController(&nbsp;<br />   <a target="_top" href="topic_000000000000011A.html" onclick="this.target='';return true;">ApplicationDbContext</a>^ <i>context</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_00000000000001FD.html" onclick="this.target='';return true;">User</a>^&gt;^ <i>userManager</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.signalr.ihubcontext-2">IHubContext</a>&lt;<a target="_top" href="topic_000000000000013C.html" onclick="this.target='';return true;">NotificationHub</a>^, <a target="_top" href="topic_0000000000000138.html" onclick="this.target='';return true;">INotificationClient</a>^&gt;^ <i>hubContext</i>&nbsp;<br />) </pre>			
+					<pre xml:space="preserve" class="brush: cpp">[HttpPost()]&nbsp;<br />public: &nbsp;<br /><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a>^ SetOrderStatus(&nbsp;<br />   [FromBody()]&nbsp;<br />   <a target="_top" href="topic_00000000000000E6.html" onclick="this.target='';return true;">OrderStatusRequest</a>^ <i>order</i>&nbsp;<br />) </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -256,7 +257,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">JScript does not support generic types and methods.</pre>			
+					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   HttpPost()&nbsp;<br />function SetOrderStatus(&nbsp;<br />   FromBody()&nbsp;<br />    <i>order</i> : <a target="_top" href="topic_00000000000000E6.html" onclick="this.target='';return true;">OrderStatusRequest</a>&nbsp;<br />) : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a>;</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -268,48 +269,26 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 <h4 class="subHeading">
-	Parameters</h4><dl paramName="context" class="parameterList">
+	Parameters</h4><dl paramName="order" class="parameterList">
 	<dt>
 		<span class="parameter">
-			context
+			order
 		</span>
 	</dt>
 	<dd>
-		<a target="_top" href="topic_000000000000011A.html" onclick="this.target='';return true;">ApplicationDbContext</a> 
+		<a target="_top" href="topic_00000000000000E6.html" onclick="this.target='';return true;">OrderStatusRequest</a> 
 	</dd>
 </dl>
 <p>
-	 
-</p>
-<dl paramName="userManager" class="parameterList">
-	<dt>
-		<span class="parameter">
-			userManager
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_00000000000001FD.html" onclick="this.target='';return true;">User</a>&gt; 
-	</dd>
-</dl>
-<p>
-	 
-</p>
-<dl paramName="hubContext" class="parameterList">
-	<dt>
-		<span class="parameter">
-			hubContext
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.signalr.ihubcontext-2">IHubContext</a>&lt;<a target="_top" href="topic_000000000000013C.html" onclick="this.target='';return true;">NotificationHub</a>, <a target="_top" href="topic_0000000000000138.html" onclick="this.target='';return true;">INotificationClient</a>&gt; 
-	</dd>
-</dl>
-<p>
-	 
+	Objeto com as informações da doação/compra 
 </p>
 
 <p />
 
+	<h4 class="subHeading">
+		Return Value</h4>
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task">Task</a> 
+	
 
 
 
@@ -397,7 +376,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000000DF.html">NotificationController Class</a><br />
+			<a href="topic_00000000000000DC.html">PaymentController Class</a><br />
 
 
 

@@ -1,1 +1,1 @@
-search_result['1292']=["topic_00000000000002FF_vars--.html","PickupPointStatistics Fields",""];
+search_result['1292']=["topic_00000000000002E0_vars--.html","PointBackOfficeFormModel Fields",""];

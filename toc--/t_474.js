@@ -1,1 +1,1 @@
-c['474']=[['475',"EventStatisticsTable Constructor","topic_0000000000000180_overloads--.html",1],['478',"Properties","topic_0000000000000177_props--.html",1]];
+c['474']=[['475',"Methods","topic_000000000000017E_methods--.html",1]];

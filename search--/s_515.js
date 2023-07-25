@@ -1,1 +1,1 @@
-search_result['515']=["topic_0000000000000115_methods--.html","UserInstitutionsModel Methods",""];
+search_result['515']=["topic_000000000000010F_props--.html","SettingsController Properties",""];

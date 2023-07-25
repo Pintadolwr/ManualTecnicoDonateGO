@@ -1,0 +1,1 @@
+c['677']=[['678',"PickupPointStatisticsTable() Constructor","topic_0000000000000239.html",0],['679',"PickupPointStatisticsTable(PickupPoint) Constructor","topic_000000000000023A.html",0]];

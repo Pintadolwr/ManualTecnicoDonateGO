@@ -1,1 +1,1 @@
-search_result['348']=["topic_00000000000000B8.html","FormController.RejectForm Method","Ação de rejeição de um formulário"];
+search_result['348']=["topic_00000000000000B8.html","InstitutionController.EditProfile (EditInstitutionModel) Method","Ação de confirmação de edição do perfil da instituição"];

@@ -1,1 +1,1 @@
-search_result['973']=["topic_0000000000000234.html","SDDMandate.AccountHolder Property",""];
+search_result['973']=["topic_000000000000022D.html","PickupPoint.Institution Property",""];

@@ -1,1 +1,1 @@
-c['901']=[['902',"institution Field","topic_00000000000002E4.html",0]];
+c['901']=[['902',"BankInfoModel Class","topic_00000000000002F8.html",1],['908',"PayPalInfoModel Class","topic_00000000000002FD.html",1]];

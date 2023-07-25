@@ -1,1 +1,1 @@
-search_result['1030']=["topic_000000000000024E_attached_props--.html","ValuePerMonthModel Attached Properties",""];
+search_result['1030']=["topic_000000000000024C_props--.html","ProductCategory Properties",""];

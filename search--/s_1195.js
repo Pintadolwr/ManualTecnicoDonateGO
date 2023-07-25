@@ -1,1 +1,1 @@
-search_result['1195']=["topic_00000000000002B2_vars--.html","InstitutionEventsStatistics Fields",""];
+search_result['1195']=["topic_00000000000002A1_events--.html","EventBackOfficeModel Events",""];

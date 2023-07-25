@@ -1,1 +1,1 @@
-search_result['415']=["topic_00000000000000DF_attached_props--.html","NotificationController Attached Properties",""];
+search_result['415']=["topic_00000000000000E1.html","PaymentController.GetAccessToken Method","Método para obter um Access Token para autenticar as API calls à API do Paypal\r\nUm access token apresenta tempo limite de utilização, logo este método poderá ser utilizador várias vezes numa só sessão"];

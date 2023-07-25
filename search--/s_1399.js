@@ -1,0 +1,1 @@
+search_result['1399']=["topic_000000000000032D.html","InstitutionPickupPointsStatistics.AverageDonationsThisMonthPerWeek Property",""];

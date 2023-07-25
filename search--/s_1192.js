@@ -1,1 +1,1 @@
-search_result['1192']=["topic_00000000000002B2_events--.html","InstitutionEventsStatistics Events",""];
+search_result['1192']=["topic_00000000000002A0.html","DonateGO.Views.Event.EventBackOffice Namespace",""];

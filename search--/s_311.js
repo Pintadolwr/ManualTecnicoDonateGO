@@ -1,1 +1,1 @@
-search_result['311']=["topic_00000000000000A1.html","EventController.DeleteConfirmed Method","Ação de confirmação de eliminação de um evento"];
+search_result['311']=["topic_00000000000000A5.html","FilterController.GetPickupPoints Method","Visualização dos pontos de recolha"];

@@ -1,1 +1,1 @@
-search_result['942']=["topic_0000000000000222_events--.html","CustomerModel Events",""];
+search_result['942']=["topic_0000000000000214.html","PaymentDonationsTable Class","Classe de Tabela de dados para guardar as doações monetárias efetuadas através da aplicação"];

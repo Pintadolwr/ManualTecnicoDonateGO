@@ -1,1 +1,1 @@
-c['271']=[['272',"MapController Constructor","topic_00000000000000C8.html",0],['273',"Methods","topic_00000000000000C7_methods--.html",1]];
+c['271']=[['272',"InstitutionController Constructor","topic_00000000000000B5.html",0],['273',"Methods","topic_00000000000000B4_methods--.html",1]];

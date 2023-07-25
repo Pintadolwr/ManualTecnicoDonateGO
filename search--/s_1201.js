@@ -1,1 +1,1 @@
-search_result['1201']=["topic_00000000000002B8.html","InstitutionEventsStatistics.TotalAverageExpectedParticipants Property",""];
+search_result['1201']=["topic_00000000000002A4.html","EventBackOfficeModel.Description Property",""];

@@ -1,1 +1,1 @@
-search_result['829']=["topic_00000000000001DF_vars--.html","PickupPointStatisticsTable Fields",""];
+search_result['829']=["topic_00000000000001CA_props--.html","InstitutionBankInfoTable Properties",""];

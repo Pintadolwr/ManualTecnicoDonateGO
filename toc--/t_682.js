@@ -1,1 +1,0 @@
-c['682']=[['683',"GetDonationsPerMonthList Method","topic_000000000000024D.html",0],['684',"GetEventViewCount Method","topic_000000000000024B.html",0],['685',"GetViewsPerMonthList Method","topic_000000000000024C.html",0]];

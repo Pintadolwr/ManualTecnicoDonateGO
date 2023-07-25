@@ -1,1 +1,1 @@
-search_result['403']=["topic_00000000000000D6.html","MapController.DeletePickupPoint Method",""];
+search_result['403']=["topic_00000000000000DA.html","NotificationController.AssignConnectionID Method","Método para o SignalR efetuar a ligação entre o Id de um Utilizador e o Id da sua conexão"];

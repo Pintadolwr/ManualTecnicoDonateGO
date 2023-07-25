@@ -1,1 +1,1 @@
-search_result['360']=["topic_00000000000000BF.html","InstitutionController Class",""];
+search_result['360']=["topic_00000000000000BE.html","MapController.Index Method","Visualização da view principal do mapa"];

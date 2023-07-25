@@ -1,1 +1,1 @@
-search_result['526']=["topic_000000000000011A_props--.html","ApplicationDbContext Properties",""];
+search_result['526']=["topic_0000000000000115_overloads--.html","SettingsController.PayPalInfo Method","Método para definir o PayPal de uma Instituição"];

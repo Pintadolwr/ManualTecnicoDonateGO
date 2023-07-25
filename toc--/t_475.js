@@ -1,1 +1,1 @@
-c['475']=[['476',"EventStatisticsTable() Constructor","topic_0000000000000180.html",0],['477',"EventStatisticsTable(Event) Constructor","topic_0000000000000181.html",0]];
+c['475']=[['476',"ReceiveEventNotification Method","topic_0000000000000180.html",0],['477',"ReceiveMessageNotification Method","topic_0000000000000181.html",0],['478',"ReceiveNotification Method","topic_000000000000017F.html",0]];

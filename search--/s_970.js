@@ -1,1 +1,1 @@
-search_result['970']=["topic_0000000000000231.html","SDDMandate.Name Property",""];
+search_result['970']=["topic_000000000000022A.html","PickupPoint.OpeningTime Property",""];

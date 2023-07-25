@@ -1,0 +1,1 @@
+c['863']=[['864',"PointBackOfficeModel() Constructor","topic_00000000000002DD.html",0],['865',"PointBackOfficeModel(PickupPoint) Constructor","topic_00000000000002DE.html",0],['866',"PointBackOfficeModel(PickupPointStatisticsTable) Constructor","topic_00000000000002DF.html",0]];

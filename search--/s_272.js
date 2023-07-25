@@ -1,1 +1,1 @@
-search_result['272']=["topic_000000000000008C_events--.html","EasyPayController Events",""];
+search_result['272']=["topic_000000000000008C_events--.html","EventController Events",""];

@@ -1,1 +1,1 @@
-search_result['310']=["topic_00000000000000A0.html","EventController.Delete Method","Visualização da eliminação de um evento"];
+search_result['310']=["topic_00000000000000A4.html","FilterController.GetEvents Method","Visualização dos eventos"];

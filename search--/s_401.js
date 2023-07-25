@@ -1,1 +1,1 @@
-search_result['401']=["topic_00000000000000D4.html","MapController.DeleteDonationPoint Method",""];
+search_result['401']=["topic_00000000000000D8.html","NotificationController.UserNotifications Method","Página de visualização das notificações de um Utilizador"];

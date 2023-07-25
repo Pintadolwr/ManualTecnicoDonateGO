@@ -1,1 +1,1 @@
-c['361']=[['362',"ApplicationDbContext Class","topic_000000000000011A.html",1]];
+c['361']=[['362',"BankInfo() Method","topic_0000000000000112.html",0],['363',"BankInfo(BankInfoModel) Method","topic_0000000000000113.html",0]];

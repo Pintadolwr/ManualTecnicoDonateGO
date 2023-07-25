@@ -1,1 +1,1 @@
-search_result['378']=["topic_00000000000000C7_methods--.html","MapController Methods",""];
+search_result['378']=["topic_00000000000000C8_overloads--.html","MapController.EditPickupPoint Method","Ação de confirmação da edição de um Ponto de Recolha"];

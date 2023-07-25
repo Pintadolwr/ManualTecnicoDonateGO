@@ -1,0 +1,1 @@
+c['386']=[['387',"UserController Constructor","topic_0000000000000127.html",0],['388',"Methods","topic_0000000000000126_methods--.html",1]];

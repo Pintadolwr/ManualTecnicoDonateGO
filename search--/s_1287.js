@@ -1,1 +1,1 @@
-search_result['1287']=["topic_00000000000002FF.html","PickupPointStatistics Class",""];
+search_result['1287']=["topic_00000000000002E0.html","PointBackOfficeFormModel Class",""];

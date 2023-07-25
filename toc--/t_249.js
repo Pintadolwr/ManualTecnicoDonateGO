@@ -1,0 +1,1 @@
+c['249']=[['250',"GetDonationPoints Method","topic_00000000000000A3.html",0],['251',"GetEvents Method","topic_00000000000000A4.html",0],['252',"GetInstitutions Method","topic_00000000000000A6.html",0],['253',"GetPickupPoints Method","topic_00000000000000A5.html",0],['254',"Index Method","topic_00000000000000A2.html",0]];

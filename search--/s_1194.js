@@ -1,1 +1,1 @@
-search_result['1194']=["topic_00000000000002B2_props--.html","InstitutionEventsStatistics Properties",""];
+search_result['1194']=["topic_00000000000002A1_attached_props--.html","EventBackOfficeModel Attached Properties",""];

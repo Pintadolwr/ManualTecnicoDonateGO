@@ -1,1 +1,1 @@
-search_result['290']=["topic_0000000000000095_overloads--.html","EasyPayController.Multibanco Method",""];
+search_result['290']=["topic_0000000000000097.html","EventController.DeleteConfirmed Method","Ação de confirmação de eliminação de um evento"];

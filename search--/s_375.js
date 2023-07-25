@@ -1,1 +1,1 @@
-search_result['375']=["topic_00000000000000C7.html","MapController Class",""];
+search_result['375']=["topic_00000000000000C7.html","MapController.EditPickupPoint (Guid) Method","Método para o retorno da página de edição de um Ponto de Recolha"];
